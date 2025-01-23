@@ -1,6 +1,6 @@
 {
-  "version": "v7.16.53 (patches: 5.2.2)",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/AmirulAndalib/revanced-extended/releases/download/5/youtube-music-revanced-extended-magisk-v7.16.53-arm-v7a.zip",
+  "version": "v7.16.53 (patches: 5.3.1)",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/AmirulAndalib/revanced-extended/releases/download/6/youtube-music-revanced-extended-magisk-v7.16.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/AmirulAndalib/revanced-extended/update/build.md"
 }
